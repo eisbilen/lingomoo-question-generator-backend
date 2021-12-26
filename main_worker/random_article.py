@@ -1,0 +1,1 @@
+random_tags = ['art-culture', 'business', 'life', 'sport']

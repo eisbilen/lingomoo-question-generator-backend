@@ -1,0 +1,1 @@
+taglist = ['VERB', 'ADVERB', 'NOUN', 'ADJECTIVE', 'PREPOSITION', 'AUX', 'DETERMINER']
